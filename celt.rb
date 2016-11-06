@@ -1,7 +1,7 @@
 class Celt < Formula
   homepage "http://www.celt-codec.org/"
-  url "http://downloads.xiph.org/releases/celt/celt-0.11.1.tar.gz"
-  sha256 "01c2579fba8b283c9068cb704a70a6e654aa74ced064c091cafffbe6fb1d4cbf"
+  url "http://downloads.xiph.org/releases/celt/celt-0.11.3.tar.gz"
+  sha256 "7e64815d4a8a009d0280ecd235ebd917da3abdcfd8f7d0812218c085f9480836"
 
   depends_on "libogg" => :optional
 
