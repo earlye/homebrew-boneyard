@@ -3,7 +3,7 @@ class CppNetlib < Formula
   homepage "http://cpp-netlib.org"
   url "https://github.com/cpp-netlib/cpp-netlib/archive/cpp-netlib-0.11.2-final.tar.gz"
   version "0.11.2"
-  sha256 "d66e264240bf607d51b8d0e743a1fa9d592d96183d27e2abdaf68b0a87e64560"
+  sha256 "176822a2a18190345cd35a8f10eaed02206bba9255dcbbdcd9e69d8fe1786e77"
   revision 1
 
   depends_on "cmake" => :build
