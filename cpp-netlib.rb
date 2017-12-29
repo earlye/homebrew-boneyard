@@ -13,7 +13,7 @@ class CppNetlib < Formula
   if MacOS.version < :mavericks
     depends_on "boost" => "c++11"
   else
-    depends_on "boost"
+    depends_on "boost@1.60"
   end
 
   needs :cxx11
